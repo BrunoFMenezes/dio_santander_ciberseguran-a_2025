@@ -1,5 +1,5 @@
 # Simulando um Ataque de Brute Force de Senhas com Medusa e Kali Linux
-Pesquisador, segue uma descrição técnica, objetiva e adequada para documentação do desafio, focada em uso legítimo em laboratório controlado.
+Segue uma descrição técnica, objetiva e adequada para documentação do desafio, focada em uso legítimo em laboratório controlado.
 
 ---
 
@@ -123,5 +123,3 @@ smbclient -L 192.168.56.10 -U <usuario>
 1. Scarfone, K.; Mell, P. *Guide to Enterprise Password Management (NIST SP 800-118)*.
 2. OWASP Foundation. *OWASP Testing Guide v4*.
 3. MITRE. *ATT&CK – Brute Force (T1110)*.
-
-Se desejar, posso converter tudo em formato de relatório, PDF técnico, modelo acadêmico ou roteiro de laboratório detalhado.
